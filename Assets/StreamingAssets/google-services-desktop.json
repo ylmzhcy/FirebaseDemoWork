@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930708987026",
+    "firebase_url": "https://testfirebase-41176-default-rtdb.firebaseio.com",
+    "project_id": "testfirebase-41176",
+    "storage_bucket": "testfirebase-41176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930708987026:android:6ac96d612d252612dd9a4b",
+        "android_client_info": {
+          "package_name": "com.GundikGame.FireBaseTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930708987026-v615ogocm008llo36hi8q0609j985es6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoZ0WhDqg5srDlJZSeX_Un6IaC6xtWBJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930708987026-v615ogocm008llo36hi8q0609j985es6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
